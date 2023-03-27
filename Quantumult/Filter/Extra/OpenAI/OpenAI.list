@@ -1,6 +1,0 @@
-# > OpenAi
-DOMAIN-SUFFIX,openai.com,Netflix
-DOMAIN-SUFFIX,ai.com,Netflix
-DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,Netflix
-DOMAIN-KEYWORD,dualstack.apiproxy-,Netflix
-# GEOIP,OpenAi,OpenAi
