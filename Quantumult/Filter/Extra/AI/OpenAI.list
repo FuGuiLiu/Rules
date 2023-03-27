@@ -1,4 +1,4 @@
 # > OpenAi
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com,OPENAI
+DOMAIN-SUFFIX,ai.com,OPENAI
 # GEOIP,OpenAI
