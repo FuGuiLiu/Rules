@@ -1,4 +1,9 @@
 # > OpenAi
-DOMAIN-SUFFIX,openai.com,OPENAI
-DOMAIN-SUFFIX,ai.com,OPENAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN-SUFFIX,ai.com,OpenAI
+DOMAIN-KEYWORD,openai.com,OpenAI
+# > ChatGPT APP
+DOMAIN-SUFFIX,mixpanel.com,ChatGPT-APP
+DOMAIN-KEYWORD,mixpanel.com,ChatGPT-APP
+DOMAIN,api.mixpanel.com,ChatGPT-APP
 # GEOIP,OpenAI
