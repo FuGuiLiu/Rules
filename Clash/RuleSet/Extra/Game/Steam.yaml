@@ -1,6 +1,6 @@
 payload:
   # Steam
-  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steam.list-chat.com
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steampowered.com
