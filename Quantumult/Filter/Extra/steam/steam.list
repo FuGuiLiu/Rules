@@ -1,11 +1,12 @@
-steamstat.com
-steamgames.com
-akamaihd.net
-steamstat.us
-cdn.steampowered.com
-steamusercontent.com
-steamcontent.com
-*.steamcontent.com
-steamstatic.com
-*.cm.steampowered.com
-steam-chat.com
+DOMAIN-SUFFIX,# steam proxy
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,steamstat.com,Steam
+DOMAIN-SUFFIX,steamgames.com,Steam
+DOMAIN-SUFFIX,akamaihd.net,Steam
+DOMAIN-SUFFIX,steamstat.us,Steam
+DOMAIN-SUFFIX,cdn.steampowered.com,Steam
+DOMAIN-SUFFIX,steamusercontent.com,Steam
+DOMAIN-SUFFIX,steamcontent.com,Steam
+DOMAIN-SUFFIX,*.steamcontent.com,Steam
+DOMAIN-SUFFIX,steamstatic.com,Steam
+DOMAIN-SUFFIX,*.cm.steampowered.com,Steam
+DOMAIN-SUFFIX,Steamsteam-chat.com,Steam
