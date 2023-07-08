@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,# steam proxy
-DOMAIN-SUFFIX,DOMAIN-SUFFIX,steamstat.com,Steam
+# steam proxy
+DOMAIN-SUFFIX,steamstat.com,Steam
 DOMAIN-SUFFIX,steamgames.com,Steam
 DOMAIN-SUFFIX,akamaihd.net,Steam
 DOMAIN-SUFFIX,steamstat.us,Steam
