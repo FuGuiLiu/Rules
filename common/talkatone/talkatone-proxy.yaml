@@ -1,0 +1,8 @@
+#!name=Talkatone
+#!desc=Talkatone 代理规则，对应原规则中的 PROXY
+# 原始规则已按策略拆分；本文件只保留匹配条件，执行策略在主配置 RULE-SET 后面指定。
+payload:
+  - DOMAIN-SUFFIX,tktn.at
+  - DOMAIN-SUFFIX,tktn.be
+  - DOMAIN-SUFFIX,vm.talkatone.com
+  - DOMAIN-SUFFIX,tenor.com
